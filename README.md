@@ -6,7 +6,7 @@ Kelas : A
 Tema : Sistem Langganan atau Membership Layanan Streaming (Netflix)
 
 ## Flowchart
-![MINPRO DDP 2](https://github.com/user-attachments/assets/944b4fc4-ebea-4989-a1f0-b1905f5671fb)
+![MINPRO DDP 2 Aliyah Azzah Sekedang drawio](https://github.com/user-attachments/assets/9368003a-1388-4415-a9bd-fd4148212230)
 
 ## Menu Utama
 ![image](https://github.com/user-attachments/assets/fe040ba7-4ac8-4849-a642-dce76048e9b2)
