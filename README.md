@@ -39,10 +39,12 @@ jika user menginput role mode selain Admin atau Member, maka otomatis akan kemba
 
   ### 1. View a package
   Admin dapat melihat semua paket yang tersedia.
+  
   ![image](https://github.com/user-attachments/assets/84537909-b338-4516-8ae4-415623738fb2)
 
   ### 2. Add a package
   Admin dapat menambahkan paket baru dengan memasukkan New Name 
+  
   ![image](https://github.com/user-attachments/assets/813834af-c4e9-4acb-90f3-004a02358635)
 
 
