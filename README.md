@@ -5,31 +5,58 @@ Kelas : A
 
 Tema : Sistem Langganan atau Membership Layanan Streaming (Netflix)
 
-# FLOWCHART
-![MINPRO DDP 2 - Aliyah Azzah Sekedang 2409116021 drawio](https://github.com/user-attachments/assets/9d79c567-549a-48ec-b7b4-291bb83b0c71)
+## Flowchart
+![MINPRO DDP 2](https://github.com/user-attachments/assets/944b4fc4-ebea-4989-a1f0-b1905f5671fb)
 
-# Menu Login
-![image](https://github.com/user-attachments/assets/3fc3af5e-9dfc-43a4-98b0-2210ce9d580b)
+## Menu Utama
+![image](https://github.com/user-attachments/assets/fe040ba7-4ac8-4849-a642-dce76048e9b2)
 
-User diarahkan untuk memilih Login dengan Role sebagai Admin atau Member.
+Saat program dimulai, akan muncul Menu Utama (Main Menu). Disini, user diminta untuk memilih Login sebagai Admin atau Member.
 
-# Penjelasan Menu Login
+## Menu Login
+Setelah memilih 'Role', user diminta memasukkan Username dan Password.
+
 1) Login sebagai Admin, bisa melakukan sistem CRUD (Create, Read, Update, Delete) pada database paket streaming.
-2) Login sebagai Member, hanya dapat melakukan transaksi dan menampilkan paket streaming yang telah dibeli.
-
+   
+   - Username: mba_admin
+   - Password: kerjalembur
+     
+3) Login sebagai Member, hanya dapat melakukan transaksi dan menampilkan paket streaming yang telah dibeli.
+   
+   - Username: aliyahazs
+   - Password: nontondulu
+     
+## Menu Admin
 - Seandainya jika user menginput role mode selain Admin atau Member.
 
-![image](https://github.com/user-attachments/assets/99623b73-0a20-4cc8-b584-a5bfb1edfaac)
+![image](https://github.com/user-attachments/assets/5a5c728e-2668-493e-89b7-7ccf94f198a7)
 
 jika user menginput role mode selain Admin atau Member, maka otomatis akan kembali ke Menu Login.
 
-# Mode Admin
+- Jika login sebagai Admin berhasil, akan muncul Menu Admin dengan opsi:
+
+![image](https://github.com/user-attachments/assets/5f0e0542-07a9-45ba-9cc3-735085a46bf3)
+
+  ### 1. View a package
+  Admin dapat melihat semua paket yang tersedia.
+  ![image](https://github.com/user-attachments/assets/84537909-b338-4516-8ae4-415623738fb2)
+
+  ### 2. Add a package
+  Admin dapat menambahkan paket baru dengan memasukkan New Name 
+  ![image](https://github.com/user-attachments/assets/813834af-c4e9-4acb-90f3-004a02358635)
+
+
+
+   
+
+
+## Mode Admin
 
 ![image](https://github.com/user-attachments/assets/f45dadc6-1686-453b-9ffc-0ee2fedf2f8f)
 
 Pada mode Admin, user akan diberikan 5 opsi dalam Menu Admin seperti pada gambar dan user diminta untuk menginput opsi sesuai dengan angka opsi yang disediakan.
 
-# Penjelasan Menu Admin
+## Penjelasan Menu Admin
 1) View all Package
 
    ![image](https://github.com/user-attachments/assets/745c6dc3-7af4-4e53-a8c6-f72ff080c8a0)
