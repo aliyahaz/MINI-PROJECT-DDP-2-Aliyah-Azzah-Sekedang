@@ -1,9 +1,8 @@
-# MINI-PROJECT-DASAR PEMOGRAMAN 2
+# Tema : Sistem Langganan atau Membership Layanan Streaming (Netflix)
+
 Nama : Aliyah Azzah Sekedang
 
 Kelas : A
-
-# Tema : Sistem Langganan atau Membership Layanan Streaming (Netflix)
 
 ## Flowchart
 ![MINPRO DASPRO 2 Aliyah Azzah S drawio](https://github.com/user-attachments/assets/ca807a3d-12dd-4f7d-b1aa-be1eb60d3a35)
