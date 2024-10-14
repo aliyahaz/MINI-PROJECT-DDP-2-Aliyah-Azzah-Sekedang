@@ -3,7 +3,7 @@ Nama : Aliyah Azzah Sekedang
 
 Kelas : A
 
-Tema : Sistem Langganan atau Membership Layanan Streaming (Netflix)
+# Tema : Sistem Langganan atau Membership Layanan Streaming (Netflix)
 
 ## Flowchart
 ![MINPRO DASPRO 2 Aliyah Azzah S drawio](https://github.com/user-attachments/assets/ca807a3d-12dd-4f7d-b1aa-be1eb60d3a35)
@@ -82,17 +82,18 @@ Pada mode Admin, user akan diberikan 6 opsi dalam Menu Admin seperti pada gambar
   ![image](https://github.com/user-attachments/assets/5bbf6b86-167f-4acf-a544-469cd119c3e3)
 
   ### 5. View transactions
-  Admin dapat melihat semua transaksi yang telah dilakukan oleh Member.
+  Admin dapat melihat semua transaksi yang telah dilakukan oleh Member. Admin dapat memasukkan opsi ke 5 yaitu View Transactions.
   
   - Jika belum ada transaksi yang dilakukan, ditampilkan tulisan "No transactions yet." dan kembali ditampilkan Menu Admin.
     
   ![image](https://github.com/user-attachments/assets/a24ba8f0-ab49-4777-b5b5-4379469a0935)
 
-  - Jika sudah ada transaksi yang dilakukan, ditampilkan tulisan. Seharusnya member dapat menjual 
-    
+  - Jika sudah ada transaksi yang dilakukan, ditampilkan tulisan.
+
+  ![image](https://github.com/user-attachments/assets/ca931807-e465-49a6-af06-5b3532081d2e)
 
   ### 6. Logout
-  Ketika Admin telah selesai menggunakan Menu Admin, Admin dapat memilih opsi ke 6 yaitu Logout. Setelah memasukkan opsi 6, maka user akan logout sebagai Admin. Lalu, diarahkan untuk Exit atau keluar dari program.
+  Ketika Admin telah selesai menggunakan Menu Admin, Admin dapat memasukkan opsi ke 6 yaitu Logout. Setelah memasukkan opsi 6, maka user akan logout sebagai Admin. Lalu, diarahkan untuk Exit atau keluar dari program.
 
   ![image](https://github.com/user-attachments/assets/4eab3461-9fe7-48ea-a2ea-c5dabba2d159)
 
@@ -106,7 +107,7 @@ Pada mode Admin, user akan diberikan 6 opsi dalam Menu Admin seperti pada gambar
 
 ## Menu Member
 
-Pada mode Member, user akan diberikan 3 opsi dalam Menu Member seperti pada gambar dan user diminta untuk menginput opsi sesuai dengan kebutuhan.
+Pada mode Member, user akan diberikan 4 opsi dalam Menu Member seperti pada gambar dan user diminta untuk menginput opsi sesuai dengan kebutuhan.
 
 ![image](https://github.com/user-attachments/assets/edfa9e50-6c1f-41f8-bee4-803ff39ff761)
 
@@ -138,52 +139,58 @@ Pada mode Member, user akan diberikan 3 opsi dalam Menu Member seperti pada gamb
    
    Member dapat membeli dan berlangganan paket yang tersedia.
 
-   ![image](https://github.com/user-attachments/assets/38b1c63c-c407-430f-9f08-bd35936914f2)
+   ![image](https://github.com/user-attachments/assets/4c04f8de-f268-46bb-b54f-abd5ba857610)
     
    Untuk masuk ke opsi "Purchase a package" inputkan angka 2. Lalu diminta input nomor paket yang ingin dibeli dan berlangganan.
 
-   ![image](https://github.com/user-attachments/assets/b673ae23-fc44-4c2f-a681-92eee6609e7b)
+   ![image](https://github.com/user-attachments/assets/df079c0d-d47d-4528-9988-95ae9d178517)
 
    Lalu, konfirmasi pembayaran dengan ditampilkan Nama paket beserta Harga total. User diminta memilih opsi "yes" atau "no".
    
-   - Jika user memilih opsi "yes".
+   - Jika user memilih opsi "yes". User diminta memasukkan tanggal pembelian.
      
-     ![image](https://github.com/user-attachments/assets/3910f3c1-bea5-40e7-a0dd-dfe424c20b9b)
+     ![image](https://github.com/user-attachments/assets/40255d76-1246-4265-b0f8-b8c782dfc776)
 
      maka, pembayarannya telah berhasil dan user akan diarahkan kembali jika ingin melakukan transaksi ulang.
 
    - Jika user memilih opsi "no".
     
-     ![image](https://github.com/user-attachments/assets/627263f4-dece-47db-9f52-626497b594b1)
+     ![image](https://github.com/user-attachments/assets/d419c2c7-7079-4879-a9ee-ac18289cc284)
 
-     maka, user ditanya apakah ingin melakukan transaksi kembali atau tidak. Jika memilih opsi "yes", user akan diarahkan kembali ke opsi "Purchase a package.
+     maka, user ditanya apakah ingin melakukan transaksi kembali atau tidak. Jika memilih opsi "yes", user akan diarahkan kembali ke opsi "Purchase a package".
+
+     - Jika user memilih opsi "yes".
+
+     ![image](https://github.com/user-attachments/assets/6868e8f5-fc5e-4569-8a9b-ba65ec2c96db)
+
+     - Jika user memilih opsi "no". User akan diarahkan kembali ke Menu Member.
+
+     ![image](https://github.com/user-attachments/assets/a7a01cd9-1ee7-46ef-a637-36c26ef4b6b4)
+
 
      ### 3. View Transactions
      
      Member dapat melihat paket yang telah dibelinya.
-     
-  Admin dapat melihat semua transaksi yang telah dilakukan oleh Member.
-  
-  - Jika belum ada transaksi yang dilakukan, ditampilkan tulisan "No transactions yet." dan kembali ditampilkan Menu Admin.
-    
-  ![image](https://github.com/user-attachments/assets/a24ba8f0-ab49-4777-b5b5-4379469a0935)
 
-  - Jika sudah ada transaksi yang dilakukan, ditampilkan tulisan. Seharusnya member dapat menjual 
-    
+     ![image](https://github.com/user-attachments/assets/59bcdcc8-6327-4b1f-bb0d-07c36f6cda00)
 
-   ### 5. Logout
-  Ketika Admin telah selesai menggunakan Menu Admin, Admin dapat memilih opsi ke 6 yaitu Logout. Setelah memasukkan opsi 6, maka user akan logout sebagai Admin. Lalu, diarahkan untuk Exit atau keluar dari program.
+     Untuk masuk ke opsi "View Transactions" inputkan angka 3.
 
-  ![image](https://github.com/user-attachments/assets/4eab3461-9fe7-48ea-a2ea-c5dabba2d159)
+     ![image](https://github.com/user-attachments/assets/dd247558-5e5e-46b1-a5d7-bbd0efcb3b9a)
+
+
+   ### 4. Logout
+  Ketika Admin telah selesai menggunakan Menu Admin, Admin dapat memilih opsi ke 4 yaitu Logout. Setelah memasukkan opsi 4, maka user akan logout sebagai Admin. Lalu, diarahkan untuk Exit atau keluar dari program.
+
+   ![image](https://github.com/user-attachments/assets/9c0de6d9-0c6a-4dc1-ad27-6b5a712641e1)
 
    - Ketika memilih "no" maka user diarahkan kembali ke Menu Login.
 
-     ![image](https://github.com/user-attachments/assets/bba1c793-2c37-454b-b7fb-e39963dc8b9c)
+     ![image](https://github.com/user-attachments/assets/927d9644-38b9-4a96-a3bb-ed953c76f6b4)
      
    - Ketika memilih "yes" maka user telah keluar dari program.
 
-     ![image](https://github.com/user-attachments/assets/4e98e861-63d9-4093-a929-762c70c97646)
-
+     ![image](https://github.com/user-attachments/assets/ad410fe3-b9c5-4b33-9b74-a53842a61c28)
 
      
    
